@@ -1,6 +1,6 @@
 # Ash - Assistente Virtual
 
-Ash é um assistente virtual desenvolvido com **Python**, criado como projeto de aprendizado. Ele utiliza **reconhecimento de voz offline**, possui função de fala (speaker) e pode ser expandido com um simples **banco de comandos** em `.json` ou `.txt` para executar funções específicas.
+Ash é um assistente virtual desenvolvido em **Python**, criado como projeto de aprendizado. Ele utiliza **reconhecimento de voz offline**, possui função de fala (speaker) e pode ser implementado com um simples **banco de comandos** em `.json` ou `.txt` para executar funções específicas.
 
 ---
 
@@ -19,7 +19,7 @@ Ash é um assistente virtual desenvolvido com **Python**, criado como projeto de
 ## 🔹 Modelo de Reconhecimento de Voz
 
 Para o reconhecimento de voz funcionar, é necessário o modelo **vosk_model_br** (Português do Brasil).  
-Você pode usar outro modelo em outra língua, mas para PT-BR recomendamos esse modelo.
+Você pode usar outro modelo em outra língua.
 
 ---
 
